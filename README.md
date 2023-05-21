@@ -1,4 +1,4 @@
-##Hello, my name is Yuri Cardoso. I'm a graphic designer, history teacher, and computer science student!
+## Hello, my name is Yuri Cardoso. I'm a graphic designer, history teacher, and computer science student!
 --->
 - 🔭 Studying Python and Java.
 - 📫 Email :yuricardoso.dev@proton.me
