@@ -2,8 +2,8 @@
 I'm a graphic designer, history teacher, and computer science student!
 --->
 - 🔭 Studying Python and Java.
-- 📫 Email :yuricardoso.dev@proton.me
-- ⚡ Linkedin :https://www.linkedin.com/in/yuricardosodhf/
+- 📫 yuricardoso.dev@proton.me
+- ⚡ www.linkedin.com/in/yuricardosodhf/
 - 😄 He, his.
 -->
 <div style="display: inline_block"><br>
