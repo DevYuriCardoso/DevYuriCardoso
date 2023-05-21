@@ -1,9 +1,10 @@
-## Hello, my name is Yuri Cardoso. I'm a graphic designer, history teacher, and computer science student!
+## Hello, my name is Yuri Cardoso. 
+I'm a graphic designer, history teacher, and computer science student!
 --->
 - 🔭 Studying Python and Java.
 - 📫 Email :yuricardoso.dev@proton.me
-- 😄 He, his.
 - ⚡ Linkedin :https://www.linkedin.com/in/yuricardosodhf/
+- 😄 He, his.
 -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
